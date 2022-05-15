@@ -1,5 +1,5 @@
 // question about identifying mole... QUESTION 3 MILLITARY
-// line 20 must be declared as an int not a String...
+// line 21 must be declared as an int not a String...
 // The correct option is 3
 
 
