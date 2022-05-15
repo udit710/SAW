@@ -48,5 +48,5 @@ public class codeInterpretation {
     1. "The enemy is approaching"
     2. "We need back up"
     3. "The code being interpreted is wrong"
-    4. The compiler will show an Error
+    4. The compiler shows an Error
 */

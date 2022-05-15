@@ -36,6 +36,6 @@ public class mineDetection {
 
   1. (2,5)
   2. (4,5)
-  3. Error
+  3. The compiler shows an Error
   4. (1,3)
 */

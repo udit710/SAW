@@ -50,5 +50,5 @@ public class hitCount {
   1. 5
   2. 3
   3. 4
-  4. Error
+  4. The compiler shows an Error
 */

@@ -59,7 +59,7 @@ public class rankingOfficers {
                                            leading seamen
 
   1. LS John tucker
-  2. Error
+  2. The compiler shows an Error
   3. LS JOHN TUCKER
   4. Ls JOHN TUCKER
 */

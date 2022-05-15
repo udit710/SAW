@@ -40,7 +40,7 @@ public class deathCause {
                                                                   485 infection 567 bloodloss 395 unknown 194 instant
                                                 
   1. 567 bloodloss
-  2. Error
+  2. The compiler shows an Error
   3. infection
   4. unknown
 */

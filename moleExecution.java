@@ -53,7 +53,7 @@ public class moleExecution {
   How many poisitions did the mole move by, if the input is: 4
                                                              6 7 8 5
 
-  1. Error
+  1. The compiler shows an Error
   2. 1
   3. 2
   4. 3

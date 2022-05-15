@@ -48,7 +48,7 @@ public class shipsAndSquadrons {
                                                                88
 
   1. 8
-  2. Error
+  2. The compiler shows an Error
   3. 10
   4. 9
 */

@@ -50,7 +50,7 @@ public class threatLevelDetection {
                                         6
   
   1. Alpha
-  2. Error
+  2. The compiler shows an Error
   3. Delta
   4. Charlie
 */

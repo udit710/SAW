@@ -35,6 +35,6 @@ public class soldiersDeaths {
 
   1. 5697
   2. 4231
-  3. Error
+  3. The compiler shows an Error
   4. 4321
 */

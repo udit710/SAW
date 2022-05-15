@@ -79,7 +79,7 @@ public class battlePosition {
                                                     5
                                                     4 5 9 2 6
 
-  1. Error
+  1. The compiler shows an Error
   2. 3 5 9 2 6 <== ENEMY SHIPS ARRIVING
   3. 2 4 5 6 9 <== ENEMY SHIPS ARRIVING
   4. 9 6 5 4 2 <== ENEMY SHIPS ARRIVING

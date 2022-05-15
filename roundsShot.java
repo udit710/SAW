@@ -63,7 +63,7 @@ public class roundsShot {
                                                                               l
 
   1. 334
-  2. Error
+  2. The compiler shows an Error
   3. 223
   4. 333
 */

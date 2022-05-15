@@ -31,6 +31,6 @@ public class jetSpeed {
   
   1. 1.0
   2. 0.62
-  3. Error
+  3. The compiler shows an Error
   4. 62.0
 */

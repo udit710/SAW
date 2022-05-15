@@ -54,7 +54,7 @@ public class jetAssemble {
                                                              c 2
                                                              q
   
-  1. Error
+  1. The compiler shows an Error
   2. 356
   3. 334
   4. 395
