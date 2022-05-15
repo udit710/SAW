@@ -1,5 +1,5 @@
 // question about enemy jet speed identification... QUESTION 2 AIR FORCE
-// line 12 is missing a return statement...
+// line 13 is missing a return statement...
 // The correct option is 3
 
 
@@ -10,7 +10,6 @@ public class jetSpeed {
     
     public static double KmToM(double speedInKmph) {
         double speedInMph = speedInKmph * 0.62;
-    
     }
     
     public static void main(String[] args) {
