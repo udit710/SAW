@@ -1,5 +1,5 @@
 // question about ranking of sailors... QUESTION 1 NAVY
-// line 44 should have a break; instead...
+// line 46 should have a default instead of case...
 // The correct option is 2
 
 
@@ -42,6 +42,7 @@ public class rankingOfficers {
                 break;
             case "warrant officer of the navy": 
                 System.out.println("WO-N " + sailorFullName);
+                break;
             default: 
                 System.out.println("No Such Rank Exists");
                 break;
@@ -53,7 +54,8 @@ public class rankingOfficers {
 /*
   Its time to provide the ran to the sailors...
 
-  What will be the output if the input is: john tucker
+  What will be the output if the input is: john 
+                                           tucker
                                            leading seamen
 
   1. LS John tucker
