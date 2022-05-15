@@ -1,5 +1,5 @@
 // question about detecting mine... QUESTION 5 MILLITARY
-// line 19 is missing a ( ...
+// line 20 is missing a ( ...
 // The correct option is 3
 
 
@@ -17,7 +17,7 @@ public class mineDetection {
         int blockJ;
         for (blockI = 0; blockI < numBlock; ++blockI) {
             for (blockJ = 0; blockJ < numBlock; ++blockJ) {
-                if (((blockI + 1) + (blockJ + 1)) % 2 == 0) {
+                if ((blockI + 1) + (blockJ + 1)) % 2 == 0) {
                     System.out.println("The block (" + (blockI + 1) + ", " + (blockJ + 1) + ") has a mine under it.");
                 }
                 else {
