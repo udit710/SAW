@@ -1,5 +1,5 @@
 // question about bringing forth the mole... QUESTION 4 MILLITARY
-// line 22 is missing the ;
+// line 23 is missing the ;
 // The correct option is 1
 
 
@@ -20,7 +20,7 @@ public class moleExecution {
                 soldierAns[i] = temp;
             }
             else{
-                soldierAns[i] = -1;
+                soldierAns[i] = -1
             }
         
             
