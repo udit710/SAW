@@ -1,5 +1,5 @@
 // question interprting the signal.... use 'random' function between 0 - 9 and each number has a message... QUESTION 1 AIR FORCE
-// line 12 is wrong because it should be .nextInt()
+// line 13 is wrong because it should be .nextInt()
 // The correct option is 4
 
 
