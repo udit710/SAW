@@ -52,7 +52,7 @@ public class rankingOfficers {
 }
 
 /*
-  Its time to provide the ran to the sailors...
+  Its time to provide the rank to the sailors...
 
   What will be the output if the input is: john 
                                            tucker
